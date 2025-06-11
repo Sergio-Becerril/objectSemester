@@ -6,7 +6,7 @@ public class Automovil extends Vehiculo {
 
 //Examen
 //	private int numeroPuertas;
-	
+//	
 //	public Automovil(String marca, String modelo, int año, int numeroPuertas) {
 //		super(marca, modelo, año);
 //		this.numeroPuertas=numeroPuertas;

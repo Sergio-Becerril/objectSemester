@@ -6,7 +6,7 @@ public class Motocicleta extends Vehiculo {
 
 //Examen
 //	private String tipo;
-	
+//	
 //	public Motocicleta(String marca, String modelo, int año, String tipo) {
 //		super(marca, modelo, año);
 //		this.tipo=tipo;
